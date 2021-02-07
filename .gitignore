@@ -4,3 +4,7 @@
 /TrainingData/
 /dataset-resized.zip
 /PetImages.zip
+/data_set/flower_data/flower_photos/
+/data_set/flower_data/train/
+/data_set/flower_data/val/
+/data_set/flower_data/flower_photos.tar
